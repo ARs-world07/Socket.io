@@ -19,7 +19,7 @@ socket.io => it is event-driven(
   -  io.emit()
 
 => from 
-    "socket.io docs" { docs -> events -> listening & broadcast}
-        or 
-    "google" { chatGPT }
+    "socket.io docs" { docs -> events -> listening & broadcast} 
+        or  
+    "google" { chatGPT } 
 )
