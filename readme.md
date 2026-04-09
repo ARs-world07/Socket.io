@@ -3,10 +3,12 @@ io => server
 socket => single user 
 
 socket.io => it is event-driven(
+
     {
        - on => event ko listen karna
        - emit => event ko fire karna
     }
+    
 )
 
 #learn(
